@@ -7,6 +7,7 @@ class inputOutput{
 
         System.out.println("The value of i = " + i);
         
+        //There are some classes that can be used to take in input at the runtime.
     }
 }
 
