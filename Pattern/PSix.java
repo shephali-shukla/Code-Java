@@ -1,6 +1,6 @@
 package Pattern;
 
-class PThree {
+class PSix {
     public static void main(String[] args) {
         
         for(char a='A';a<='E';a++){
