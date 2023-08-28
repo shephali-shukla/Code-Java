@@ -1,6 +1,6 @@
 package Pattern;
 
-class PThree {
+class PSeven {
     public static void main(String[] args) {
         
         char i,j;
