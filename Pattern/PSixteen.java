@@ -8,10 +8,16 @@ public class PSixteen {
                 System.out.print(j);
             }
 
-            if(i<=3){
-                for(int j=3;j>=0;j--){
-                    
-                }
+            for(int j=i;j<5;j++){
+                System.out.print("_");
+            }
+
+            for(int j=5;j>i;j--){
+                System.out.print("_");
+            }
+
+            for(int j=i;j>=1;j--){
+                System.out.print(j);
             }
             System.out.println();
         }
